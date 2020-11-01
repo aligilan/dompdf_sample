@@ -1,6 +1,4 @@
 <?php
-    namespace dompdf;
-
     // reference the Dompdf namespace
     use Dompdf\Dompdf;
 
